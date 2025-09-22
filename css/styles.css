@@ -30,3 +30,20 @@ footer {
     border-bottom: 1px ridge;
     min-height: 200px;
 }
+.width {
+    width: 50%
+}
+.site-footer{
+    background-image: linear-gradient(#CEC8FF, white);
+    padding: 20px 0;
+}
+.card-header{
+    background-color:teal;
+    color:white;
+}
+.mt-4 {
+  margin-top: 4 !important;
+}
+.white{
+    color:white;
+}
